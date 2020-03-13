@@ -14,6 +14,10 @@ https://googleprojectzero.blogspot.com/2018/04/windows-exploitation-tricks-explo
 https://googleprojectzero.blogspot.com/2015/12/between-rock-and-hard-link.html
 https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html
 
+https://bugs.chromium.org/p/project-zero/issues/detail?id=427&can=1&redir=1
+https://bugs.chromium.org/p/project-zero/issues/list?q=reporter%3Aforshaw%40google.com&can=1
+https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=symbolic&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids
+
 Wenxu Wu (@ma7h1as) & Shi Qin(@Ox9A82)
 https://conference.hitb.org/hitbsecconf2019ams/materials/D1T2%20-%20Automated%20Discovery%20of%20Logical%20Privilege%20Escalation%20Bugs%20in%20Windows%2010%20-%20Wenxu%20Wu%20&%20Shi%20Qin.pdf
 
@@ -23,6 +27,11 @@ https://www.activecyber.us/activelabs/nvidia-geforce-experience-local-privilege-
 
 @bohops 's
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+
+mine (@404death)
+https://heynowyouseeme.blogspot.com/2020/02/privilege-escalation-filewrite-eop-in.html
+https://heynowyouseeme.blogspot.com/2020/02/another-privilege-escalation-filewrite.html
+
 
 (Matt Nelson https://enigma0x3.net/ ) @enigma0x3 's 
 https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology
@@ -51,6 +60,7 @@ https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/
 
 @itm4n
 https://itm4n.github.io/dll-proxying/
+https://itm4n.github.io/cve-2020-0668-windows-service-tracing-eop/
 https://itm4n.github.io/localservice-privileges/
 https://itm4n.github.io/cdpsvc-dll-hijacking/
 https://itm4n.github.io/usodllloader-part1/
@@ -73,6 +83,12 @@ https://decoder.cloud/2019/11/13/from-arbitrary-file-overwrite-to-system/
 https://decoder.cloud/2019/04/29/combinig-luafv-postluafvpostreadwrite-race-condition-pe-with-diaghub-collector-exploit-from-standard-user-to-system/
 https://decoder.cloud/2019/01/04/creating-symbolic-links-in-windows-10/
 
+@padovah4ck
+https://github.com/padovah4ck/CVE-2019-1253
+https://github.com/padovah4ck/CVE-2019-0986
+https://github.com/padovah4ck/CVE-2020-0683
+https://padovah4ck.github.io/CVE-2020-0683/
+
 @clavoillotte 's
 https://troopers.de/downloads/troopers19/TROOPERS19_AD_Abusing_privileged_file_operations.pdf
 https://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html
@@ -87,19 +103,26 @@ https://amonitoring.ru/article/steamclient-0day/
 https://amonitoring.ru/article/onemore_steam_eop_0day/
 https://amonitoring.ru/article/steam_vuln_3/
 https://amonitoring.ru/article/origin_lpe_disclosure/
+https://amonitoring.ru/article/abbyy-lpe/
 
 @daveysec's 
 https://rhinosecuritylabs.com/application-security/nvidia-arbitrary-file-writes-to-command-execution-cve-2019-5674/
 
 other
+https://nafiez.github.io/security/eop/2019/11/05/windows-service-host-process-eop.html
 https://sidechannel.tempestsi.com/vulnerability-in-avira-security-suite-enables-for-privilege-escalation-attacks-e57cdad8cfb3
 https://labs.f-secure.com/advisories/intel-driver-and-support-assistant-dsa-lpe/
+https://labs.f-secure.com/advisories/nvidia-geforce-experience-lpe/
 https://www.pentagrid.ch/en/blog/local-privilege-escalation-in-ricoh-printer-drivers-for-windows-cve-2019-19363/
 https://github.com/DimopoulosElias/SEPM-EoP
 https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2019/november/cve-2019-1405-and-cve-2019-1322-elevation-to-system-via-the-upnp-device-host-service-and-the-update-orchestrator-service/
 https://safebreach.com/Post/Symantec-Endpoint-Protection-Self-Defense-Bypass-and-Potential-Usages-CVE-2019-12758
 https://www.exploit-db.com/exploits/44314
 https://www.youtube.com/watch?v=6kVVwBXOPW0
-https://github.com/padovah4ck/CVE-2019-1253
+https://bordplate.no/presentations/finding_privesc_with_procmon.pdf
 https://0x00-0x00.github.io/research/2019/05/30/Coding-a-reliable-CVE-2019-0841-Bypass.html
 https://www.cyberark.com/threat-research-blog/follow-the-link-exploiting-symbolic-links-with-ease/
+https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv.html
+https://www.fortinet.com/blog/threat-research/rpc-bug-hunting-case-studies---part-2.html
+https://www.fortinet.com/blog/threat-research/another-local-privilege-escalation-lpe-vulnerability.html
+https://blog.0patch.com/2019/06/another-task-scheduler-0day-another.html
