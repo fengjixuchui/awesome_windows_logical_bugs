@@ -1,5 +1,27 @@
+### no need to reboot to get NT AUTHORITY\SYSTEM ###
+
 https://github.com/sailay1996/FileWrite2system
 
 https://github.com/itm4n/UsoDllLoader
 
 https://github.com/OneLogicalMyth/zeroday-powershell
+
+something which I found
+
+C:\Windows\System32\wpcoreutil.dll (Windows Insider service `wisvc` triggerd by Clicking Start Windows Insider Program)
+
+C:\Windows\System32\phoneinfo.dll (Windows Problem Reporting service)
+
+C:\Windows\System32\ualapi.dll (spooler service without restart Triggered by Settings->Update and Security->Troubleshoot->Getup and running->Printer->Run the troubleshooter)
+https://twitter.com/404death/status/1244660190516924417
+
+
+### Need to reboot to get NT AUTHORITY\SYSTEM (hijack dll) ###
+
+C:\Windows\System32\ualapi.dll (spooler service)
+http://www.hexacorn.com/blog/2016/11/08/beyond-good-ol-run-key-part-50/
+
+C:\Windows\System32\fveapi.dll (ShellHWDetection Service)  @bohops
+
+C:\Windows\System32\Wow64Log.dll (this dll loaded by other third party services such as GoogleUpdate.exe)
+http://waleedassar.blogspot.com/2013/01/wow64logdll.html
