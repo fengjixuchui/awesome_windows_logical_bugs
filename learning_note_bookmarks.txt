@@ -1,6 +1,7 @@
 (James Forshaw) @tiraniddo 's 
 https://conference.hitb.org/hitbsecconf2017ams/materials/D2T3%20-%20James%20Forshaw%20-%20Introduction%20to%20Logical%20Privilege%20Escalation%20on%20Windows.pdf
 https://infocon.org/cons/SyScan/SyScan%202015%20Singapore/SyScan%202015%20Singapore%20presentations/SyScan15%20James%20Forshaw%20-%20A%20Link%20to%20the%20Past.pdf
+https://github.com/ladislav-zezula/fileTest
 https://github.com/tyranid/windows-logical-eop-workshop
 https://docs.google.com/document/d/1qujIzDmFrcFCBeIgMjWDZTLNMCAHChAnKDkHdWYEomM
 https://www.slideshare.net/OWASPdelhi/abusing-symlinks-on-windows
@@ -121,6 +122,7 @@ https://d4stiny.github.io/Several-Critical-Vulnerabilities-on-most-HP-machines-r
 
 other
 https://d4stiny.github.io/Several-Critical-Vulnerabilities-on-most-HP-machines-running-Windows/
+https://github.com/sgabe/CVE-2019-1476
 https://github.com/VikasVarshney/CVE-2020-0753-and-CVE-2020-0754
 https://danishcyberdefence.dk/blog/appgate_part1
 https://nafiez.github.io/security/eop/2019/11/05/windows-service-host-process-eop.html
