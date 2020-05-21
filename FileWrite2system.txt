@@ -4,6 +4,8 @@ https://github.com/sailay1996/FileWrite2system
 
 https://github.com/itm4n/UsoDllLoader
 
+https://github.com/sailay1996/WerTrigger
+
 https://github.com/OneLogicalMyth/zeroday-powershell
 
 https://github.com/ionescu007/faxhell
@@ -13,6 +15,8 @@ something which I found
 C:\Windows\System32\wpcoreutil.dll (Windows Insider service `wisvc` triggerd by Clicking Start Windows Insider Program)
 
 C:\Windows\System32\phoneinfo.dll (Windows Problem Reporting service)
+
+https://twitter.com/404death/status/1262670619067334656  (without reboot by @jonasLyk)
 
 C:\Windows\System32\wbem\dxgi.dll  ( windows security -> check for protection update)
 
