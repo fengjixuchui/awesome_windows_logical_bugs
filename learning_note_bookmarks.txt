@@ -38,6 +38,9 @@ https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-contr
 mine (@404death)
 https://heynowyouseeme.blogspot.com/2020/02/privilege-escalation-filewrite-eop-in.html
 https://heynowyouseeme.blogspot.com/2020/02/another-privilege-escalation-filewrite.html
+https://heynowyouseeme.blogspot.com/2020/02/local-privilege-escalation-in-eas.html
+https://heynowyouseeme.blogspot.com/2020/02/local-privilege-escalation-in_17.html
+https://heynowyouseeme.blogspot.com/2020/02/local-privilege-escalation-in_22.html
 
 
 (Matt Nelson https://enigma0x3.net/ ) @enigma0x3 's 
@@ -138,6 +141,7 @@ https://pacsec.jp/psj17/PSJ2017_Rouault_Imbert_alpc_rpc_pacsec.pdf
 https://github.com/avalon1610/ALPC
  
 other
+https://windows-internals.com/printdemon-cve-2020-1048/
 https://unit42.paloaltonetworks.com/tale-of-a-windows-error-reporting-zero-day-cve-2019-0863/
 https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2
 https://windows-internals.com/printdemon-cve-2020-1048/
