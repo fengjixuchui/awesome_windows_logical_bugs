@@ -139,8 +139,14 @@ https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers
 https://conference.hitb.org/hitbsecconf2014kul/materials/D2T1%20-%20Ben%20Nagy%20-%20ALPC%20Fuzzing%20Toolkit.pdf
 https://pacsec.jp/psj17/PSJ2017_Rouault_Imbert_alpc_rpc_pacsec.pdf
 https://github.com/avalon1610/ALPC
+https://github.com/houjingyi233/ALPC-fuzz-study
+https://www.360zhijia.com/anquan/456673.html
+https://www.360zhijia.com/anquan/439328.html
  
 other
+https://www.freebuf.com/vuls/192876.html
+https://www.freebuf.com/vuls/184090.html
+https://github.com/rogue-kdc/CVE-2019-1253
 https://windows-internals.com/printdemon-cve-2020-1048/
 https://unit42.paloaltonetworks.com/tale-of-a-windows-error-reporting-zero-day-cve-2019-0863/
 https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2
@@ -169,3 +175,5 @@ https://blog.0patch.com/2019/06/another-task-scheduler-0day-another.html
 https://github.com/deadjakk/Reg1c1de
 https://www.reddit.com/r/hacking/comments/b0lr05/a_few_binary_plating_0days_for_windows/
 https://msrc-blog.microsoft.com/2018/04/04/triaging-a-dll-planting-vulnerability/
+https://nixhacker.com/understanding-and-exploiting-symbolic-link-in-windows/
+https://nixhacker.com/breaking-antivirus-arbitrary-delete-using-symbolic-link/
