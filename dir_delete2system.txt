@@ -3,3 +3,11 @@ https://secret.club/2020/04/23/directory-deletion-shell.html
 https://github.com/thesecretclub/ArbitraryDirectoryDeletion/blob/master/wer.h
 
 by @jonasLyk
+
+@gweeperx's
+https://github.com/DimopoulosElias/Primitives    
+
+
+https://github.com/klinix5/WinDefend_ZeroDay
+
+https://0x00sec.org/t/windows-defender-av-zero-day-vulnerability/22258

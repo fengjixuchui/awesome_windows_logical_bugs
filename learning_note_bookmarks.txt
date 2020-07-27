@@ -15,11 +15,17 @@ https://googleprojectzero.blogspot.com/2018/04/windows-exploitation-tricks-explo
 https://googleprojectzero.blogspot.com/2015/12/between-rock-and-hard-link.html
 https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html
 
+https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers-from.html
 https://bugs.chromium.org/p/project-zero/issues/detail?id=427&can=1&redir=1
 https://bugs.chromium.org/p/project-zero/issues/list?q=reporter%3Aforshaw%40google.com&can=1
 https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=symbolic&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids
 
 https://packetstormsecurity.com/files/author/9094/
+
+http://www.zezula.net/en/fstools/filetest.html
+
+@jonasLyk
+https://secret.club/2020/07/01/diagtrack.html
 
 @galdeleon's 
 https://github.com/galdeleon/Conferences/blob/master/Exploiting%20Errors%20in%20Windows%20Error%20Reporting%20-%20BlueHatIL%202020.pdf
@@ -113,6 +119,7 @@ https://offsec.provadys.com/osquery-windows-acl-misconfiguration-eop.html
 https://offsec.provadys.com/fsecure-safe-arbitrary-file-copy-eop.html
 https://offsec.provadys.com/mcafee-endpoint-security-arbitrary-file-write-eop.html
 https://offsec.provadys.com/pulse-secure-arbitrary-file-write-eop.html
+https://offsec.almond.consulting/displaylink-usb-graphics-arbitrary-file-write-eop.html
 
 @PsiDragon 's  
 https://amonitoring.ru/article/steamclient-0day/
@@ -144,6 +151,10 @@ https://www.360zhijia.com/anquan/456673.html
 https://www.360zhijia.com/anquan/439328.html
  
 other
+https://rekken.github.io/2017/05/30/Windows-Logical-EoP-Workshop-Writeup/
+https://www.redtimmy.com/privilege-escalation/pulse-secure-client-for-windows-9-1-6-toctou-privilege-escalation-cve-2020-13162/
+https://github.com/RedyOpsResearchLabs
+https://labs.redyops.com/index.php/2020/04/27/dos-via-arbitrary-folder-creation/
 https://www.freebuf.com/vuls/192876.html
 https://www.freebuf.com/vuls/184090.html
 https://github.com/rogue-kdc/CVE-2019-1253
@@ -177,3 +188,4 @@ https://www.reddit.com/r/hacking/comments/b0lr05/a_few_binary_plating_0days_for_
 https://msrc-blog.microsoft.com/2018/04/04/triaging-a-dll-planting-vulnerability/
 https://nixhacker.com/understanding-and-exploiting-symbolic-link-in-windows/
 https://nixhacker.com/breaking-antivirus-arbitrary-delete-using-symbolic-link/
+https://rekken.github.io/2017/07/23/Analysis-and-Exploitation-of-GeekPwn-2016-Windows-Services-EoP-Vulnerability/
