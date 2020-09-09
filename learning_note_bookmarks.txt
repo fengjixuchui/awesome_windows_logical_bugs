@@ -37,6 +37,8 @@ https://conference.hitb.org/hitbsecconf2019ams/materials/D1T2%20-%20Automated%20
 activelabs'
 https://www.activecyber.us/activelabs/netwrix-auditor-symbolic-link-privilege-escalation-cve-2019-14969
 https://www.activecyber.us/activelabs/nvidia-geforce-experience-local-privilege-escalation-cve-2019-5701
+https://www.activecyber.us/activelabs/windows-appx-deployment-service-local-privilege-escalation-cve-2020-1488
+https://www.activecyber.us/activelabs/overwolf-symbolic-link-privilege-escalation-cve-2020-15932
 
 @bohops 's
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
@@ -77,6 +79,7 @@ https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/
 @itm4n
 https://itm4n.github.io/dll-proxying/
 https://itm4n.github.io/cve-2020-0668-windows-service-tracing-eop/
+https://itm4n.github.io/cve-2020-1170-windows-defender-eop/
 https://itm4n.github.io/cve-2020-0863-windows-diagtrack-info-disclo/
 https://itm4n.github.io/cve-2020-0787-windows-bits-eop/
 https://itm4n.github.io/cve-2020-0863-windows-diagtrack-info-disclo/
@@ -85,6 +88,8 @@ https://itm4n.github.io/cdpsvc-dll-hijacking/
 https://itm4n.github.io/usodllloader-part1/
 https://itm4n.github.io/usodllloader-part2/
 https://itm4n.github.io/windows-server-netman-dll-hijacking/
+https://gist.github.com/gwillcox-r7/419efc54568ae809eaf47843f058cadb
+https://github.com/itm4n/CVEs/blob/master/CVE-2020-1170/DefenderArbitraryFileDelete.ps1
 
 (SandboxEscaper) @SandboxBear
 https://sandboxescaper.blogspot.com/2019/10/hunting-for-filesystem-bugs.html
@@ -145,12 +150,15 @@ misc
 https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers-from.html
 https://conference.hitb.org/hitbsecconf2014kul/materials/D2T1%20-%20Ben%20Nagy%20-%20ALPC%20Fuzzing%20Toolkit.pdf
 https://pacsec.jp/psj17/PSJ2017_Rouault_Imbert_alpc_rpc_pacsec.pdf
+https://www.youtube.com/watch?v=D-F5RxZ_yXc
 https://github.com/avalon1610/ALPC
 https://github.com/houjingyi233/ALPC-fuzz-study
 https://www.360zhijia.com/anquan/456673.html
 https://www.360zhijia.com/anquan/439328.html
+https://www.youtube.com/watch?v=UNpL5csYC1E
  
 other
+https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/
 https://rekken.github.io/2017/05/30/Windows-Logical-EoP-Workshop-Writeup/
 https://www.redtimmy.com/privilege-escalation/pulse-secure-client-for-windows-9-1-6-toctou-privilege-escalation-cve-2020-13162/
 https://github.com/RedyOpsResearchLabs
